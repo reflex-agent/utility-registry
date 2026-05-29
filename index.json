@@ -30,6 +30,16 @@
       "github": "github:reflex-agent/rflx-recall@v0.1.1",
       "suggestedScope": "project",
       "author": "reflex-agent"
+    },
+    {
+      "id": "texts",
+      "name": "AI Texts",
+      "emoji": "✍️",
+      "category": "creative",
+      "description": "Notion-style block editor — headings, lists, images — with inline AI editing (improve/shorten/expand/fix/continue/translate) and image generation + search, all via Reflex core. Saves to your KB.",
+      "github": "github:reflex-agent/rflx-texts@v0.1.0",
+      "suggestedScope": "project",
+      "author": "reflex-agent"
     }
   ]
 }
